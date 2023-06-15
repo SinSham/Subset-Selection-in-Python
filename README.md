@@ -1,4 +1,4 @@
-# Subset-Selection-in-Python
+# Subset-Selection-in-Python-Mini-Project
 
 ### **1. Problem Statement:**
 ---
